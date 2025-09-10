@@ -28,6 +28,9 @@ It provides full **CRUD functionality** for products and categories, including *
 - Tailwind CSS  
 - Blade Templates  
 
+**Database**  
+- MySql
+
 ---
 
 ### Core Features <a name="features"></a>
