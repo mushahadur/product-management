@@ -1,7 +1,7 @@
 <!-- Header -->
 <header class="bg-white dark:bg-gray-800 shadow-md transition-colors duration-500">
     <div class="container mx-auto px-4 py-4 flex items-center justify-between">
-        <a class="text-2xl font-semibold text-indigo-600 dark:text-indigo-400" href="#">
+        <a class="text-2xl font-semibold text-indigo-600 dark:text-indigo-400" href="{{route('home')}}">
             LOGO
         </a>
         <nav class="hidden md:flex space-x-8 text-gray-700 dark:text-gray-300 font-medium">
