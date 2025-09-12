@@ -10,7 +10,7 @@
  <div
      class="container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center text-gray-600 dark:text-gray-300 text-sm">
      <p class="mb-4 md:mb-0">
-         © 2024 COmpany-name. All rights reserved.
+         © 2025 Company-name. All rights reserved.
      </p>
      <div class="flex space-x-6">
          <a aria-label="Facebook" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition"
