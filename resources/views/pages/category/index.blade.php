@@ -1,5 +1,11 @@
 @extends('layouts.app')
 
+
+
+@section('title')
+Category
+@endsection
+
 @section('content')
     <h1 class="text-3xl font-semibold text-gray-800 dark:text-gray-100 mb-8 text-center md:text-left">
         Category

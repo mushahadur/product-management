@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <title>
-        Products Page with Dark/Light Mode and Scroll Button
+        @yield('title')  | Product Management System
     </title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>

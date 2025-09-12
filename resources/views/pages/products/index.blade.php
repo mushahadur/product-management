@@ -1,5 +1,8 @@
 @extends('layouts.app')
 
+@section('title')
+    Products
+@endsection
 @section('content')
     <div class="flex flex-col md:flex-row justify-between items-center mb-8 px-4 md:px-6">
         <h1 class="text-3xl font-semibold text-gray-800 dark:text-gray-100 text-center md:text-left mb-4 md:mb-0">
